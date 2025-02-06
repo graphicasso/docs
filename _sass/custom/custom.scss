@@ -8,6 +8,10 @@
 body {
     font-family: 'Figtree', sans-serif; /* Fallback font for safety */
 }
+
+html { font-size: 1rem !important; } /* Modify size for smaller screens 1rem = 16px */
+@media (min-width: 48.25rem) { html { font-size: 1rem !important; } }
+
 h1 {font-weight: 600;}
 #main-header > nav > ul > li > a {color:$red-energetic;}
 .site-title:hover { background-image: none; }
