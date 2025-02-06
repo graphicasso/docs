@@ -2,8 +2,8 @@ title: RP Strength Documentation
 description: Documentation for RP Strength Apps
 remote_theme: just-the-docs/just-the-docs
 
-url: "https://graphicasso.github.io"
-baseurl: "/docs_test"
+url: "https://graphicasso.github.io/docs"
+
 
 
 aux_links:
