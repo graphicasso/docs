@@ -1,8 +1,6 @@
 ---
 title:          RP Documentation Home
 layout:         home
-redirect_to:    /docs/
-nav_exclude:    true
 ---
 
 Welcome to the new RP Strength documentation site!
